@@ -1,0 +1,14 @@
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Sterk Typing og Verdityper\bin\Debug\net10.0\Sterk Typing og Verdityper.exe
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Sterk Typing og Verdityper\bin\Debug\net10.0\Sterk Typing og Verdityper.deps.json
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Sterk Typing og Verdityper\bin\Debug\net10.0\Sterk Typing og Verdityper.runtimeconfig.json
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Sterk Typing og Verdityper\bin\Debug\net10.0\Sterk Typing og Verdityper.dll
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Sterk Typing og Verdityper\bin\Debug\net10.0\Sterk Typing og Verdityper.pdb
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Sterk Typing og Verdityper\obj\Debug\net10.0\Sterk Typing og Verdityper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Sterk Typing og Verdityper\obj\Debug\net10.0\Sterk Typing og Verdityper.AssemblyInfoInputs.cache
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Sterk Typing og Verdityper\obj\Debug\net10.0\Sterk Typing og Verdityper.AssemblyInfo.cs
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Sterk Typing og Verdityper\obj\Debug\net10.0\Sterk Typing og Verdityper.csproj.CoreCompileInputs.cache
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Sterk Typing og Verdityper\obj\Debug\net10.0\Sterk Typing og Verdityper.dll
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Sterk Typing og Verdityper\obj\Debug\net10.0\refint\Sterk Typing og Verdityper.dll
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Sterk Typing og Verdityper\obj\Debug\net10.0\Sterk Typing og Verdityper.pdb
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Sterk Typing og Verdityper\obj\Debug\net10.0\Sterk Typing og Verdityper.genruntimeconfig.cache
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Sterk Typing og Verdityper\obj\Debug\net10.0\ref\Sterk Typing og Verdityper.dll

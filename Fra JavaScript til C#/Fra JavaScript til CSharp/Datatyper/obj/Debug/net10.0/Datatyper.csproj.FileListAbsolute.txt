@@ -1,0 +1,14 @@
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Datatyper\bin\Debug\net10.0\Datatyper.exe
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Datatyper\bin\Debug\net10.0\Datatyper.deps.json
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Datatyper\bin\Debug\net10.0\Datatyper.runtimeconfig.json
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Datatyper\bin\Debug\net10.0\Datatyper.dll
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Datatyper\bin\Debug\net10.0\Datatyper.pdb
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Datatyper\obj\Debug\net10.0\Datatyper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Datatyper\obj\Debug\net10.0\Datatyper.AssemblyInfoInputs.cache
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Datatyper\obj\Debug\net10.0\Datatyper.AssemblyInfo.cs
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Datatyper\obj\Debug\net10.0\Datatyper.csproj.CoreCompileInputs.cache
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Datatyper\obj\Debug\net10.0\Datatyper.dll
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Datatyper\obj\Debug\net10.0\refint\Datatyper.dll
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Datatyper\obj\Debug\net10.0\Datatyper.pdb
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Datatyper\obj\Debug\net10.0\Datatyper.genruntimeconfig.cache
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Datatyper\obj\Debug\net10.0\ref\Datatyper.dll

@@ -1,0 +1,14 @@
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Variabeltilordning\obj\Debug\net10.0\Variabeltilordning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Variabeltilordning\obj\Debug\net10.0\Variabeltilordning.AssemblyInfoInputs.cache
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Variabeltilordning\obj\Debug\net10.0\Variabeltilordning.AssemblyInfo.cs
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Variabeltilordning\obj\Debug\net10.0\Variabeltilordning.csproj.CoreCompileInputs.cache
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Variabeltilordning\bin\Debug\net10.0\Variabeltilordning.exe
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Variabeltilordning\bin\Debug\net10.0\Variabeltilordning.deps.json
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Variabeltilordning\bin\Debug\net10.0\Variabeltilordning.runtimeconfig.json
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Variabeltilordning\bin\Debug\net10.0\Variabeltilordning.dll
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Variabeltilordning\bin\Debug\net10.0\Variabeltilordning.pdb
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Variabeltilordning\obj\Debug\net10.0\Variabeltilordning.dll
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Variabeltilordning\obj\Debug\net10.0\refint\Variabeltilordning.dll
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Variabeltilordning\obj\Debug\net10.0\Variabeltilordning.pdb
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Variabeltilordning\obj\Debug\net10.0\Variabeltilordning.genruntimeconfig.cache
+C:\Users\remyd\OneDrive\Skrivebord\GET Vår 2026\Emne 3\Moodle Oppgaver C#\Fra JavaScript til C#\Fra JavaScript til CSharp\Variabeltilordning\obj\Debug\net10.0\ref\Variabeltilordning.dll
