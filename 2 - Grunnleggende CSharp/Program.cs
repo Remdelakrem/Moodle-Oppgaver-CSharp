@@ -1,4 +1,6 @@
-﻿namespace _2___Grunnleggende_CSharp;
+﻿using System;
+
+namespace _2___Grunnleggende_CSharp;
 
 class Program
 {
