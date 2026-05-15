@@ -52,13 +52,13 @@ class Program
         // - Oppgave 2:
         // Lag en metode som skal printe setningen "Denne metoden returnerer ingenting" til konsollen.
         // Denne metoden skal altså ikke returnere noe verdi ;)
-        
-        Console.WriteLine($"Metoden returnerer ingenting: {ReturnerIngenting()}");
-    }
 
-    public static string ReturnerIngenting()
+        ReturnerIngenting();
+    }
+    
+    private static void ReturnerIngenting()
     {
-        return "";
+        Console.WriteLine("Metoden returnerer ingenting");
     }
     
 }
