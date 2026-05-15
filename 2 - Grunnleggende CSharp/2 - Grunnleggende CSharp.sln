@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 - Grunnleggende CSharp", "2 - Grunnleggende CSharp.csproj", "{768D77C2-D138-4018-8336-87CA2B2312FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If - Else", "If - Else\If - Else.csproj", "{0713BF5B-43B0-48B4-A6DD-CCF61FDE4905}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "If - Else", "If - Else", "{A4273A08-1B4B-4244-9097-7C0428037418}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random i CSharp", "Random i CSharp\Random i CSharp.csproj", "{65F4BA20-46F6-439E-8126-C30A9B17E40C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,9 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{768D77C2-D138-4018-8336-87CA2B2312FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{768D77C2-D138-4018-8336-87CA2B2312FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{768D77C2-D138-4018-8336-87CA2B2312FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{768D77C2-D138-4018-8336-87CA2B2312FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0713BF5B-43B0-48B4-A6DD-CCF61FDE4905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0713BF5B-43B0-48B4-A6DD-CCF61FDE4905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0713BF5B-43B0-48B4-A6DD-CCF61FDE4905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0713BF5B-43B0-48B4-A6DD-CCF61FDE4905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F4BA20-46F6-439E-8126-C30A9B17E40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F4BA20-46F6-439E-8126-C30A9B17E40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F4BA20-46F6-439E-8126-C30A9B17E40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F4BA20-46F6-439E-8126-C30A9B17E40C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 EndGlobal
