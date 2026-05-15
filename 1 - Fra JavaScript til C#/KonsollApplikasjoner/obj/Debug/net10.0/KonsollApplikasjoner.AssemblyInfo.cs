@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KonsollApplikasjoner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e9eb42ed357fe84cbb700ce3164054427b0b8cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6f018022efefb85dfee9111ecef6e9be3af87db")]
 [assembly: System.Reflection.AssemblyProductAttribute("KonsollApplikasjoner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KonsollApplikasjoner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
